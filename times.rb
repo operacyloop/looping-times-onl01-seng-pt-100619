@@ -1,5 +1,5 @@
 def using_times(numba)
-	numba.times puts "Wingardium Leviosa/n"
+	numba.times prints "Wingardium Leviosa/n"
 end
 
 
