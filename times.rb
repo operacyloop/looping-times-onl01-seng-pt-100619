@@ -1,5 +1,5 @@
-def using_times
-	7.times puts "Wingardium Leviosa/n"
+def using_times(numba)
+	numba.times puts "Wingardium Leviosa/n"
 end
 
 
